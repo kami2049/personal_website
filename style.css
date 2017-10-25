@@ -12,13 +12,40 @@ img {
 	height: 200px;
 	width: 150px;
 	border-radius: 10px;
-}
-
-div {
 	float: left;
 	margin: 10px;
 }
 
+/*.tech {
+	background-color: lightgrey;
+	height: 300px;
+	width: 300px;
+	text-align: center;
+	clear: both;
+}
+
+.games {
+	height: 300px;
+	width: 300px;
+	float: right;
+	text-align: center;
+}
+
+.anime {
+	background-color: lightgrey;
+	height: 300px;
+	width: 300px;
+	text-align: center;
+	clear: both;
+}
+
+.finance {
+	height: 300px;
+	width: 300px;
+	text-align: center;
+	float: right;
+}
+*/
 article {
 	background-color: lightgrey;
 	padding: 10px;
