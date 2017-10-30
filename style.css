@@ -1,9 +1,4 @@
-.container {
-	width: 100%;
-	height: 100%;
-}
-
-header {
+.header {
 	background-color: teal;
 	text-align: center;
 }
@@ -46,9 +41,10 @@ img {
 	float: right;
 }
 */
-article {
+.article {
 	background-color: lightgrey;
 	padding: 10px;
+	float: left;
 }
 
 footer {
