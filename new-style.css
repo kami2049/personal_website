@@ -1,0 +1,19 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0; 
+}
+
+.header {
+	background-color: #f1f1f1;
+	text-align: center;
+	padding: 20px; 
+}
+
+.column {
+	border: 1px solid black;
+	float: left;
+	width: 33.33%;
+}
