@@ -12,8 +12,24 @@ body {
 	padding: 20px; 
 }
 
+ul {
+	background-color: grey;
+	padding: 14px 16px;
+	text-align: center;
+}
+
+li {
+	display: inline;
+	padding: 10px;
+}
+
+a {
+	text-decoration: none;
+}
+
 .column {
 	border: 1px solid black;
 	float: left;
 	width: 33.33%;
+	padding: 15px;
 }
